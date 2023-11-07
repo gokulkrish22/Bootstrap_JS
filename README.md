@@ -1,1 +1,1 @@
-# Bootstrap_JS
+# Bootstrap_JavaScript
